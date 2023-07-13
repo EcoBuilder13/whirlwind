@@ -1,0 +1,13 @@
+name = "Whirlwind"
+author = "EcoBuilder13"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ccb441ac638b9fa7484f0409a85c27e44e30029bc204498df323136834cbd271"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.19.2"

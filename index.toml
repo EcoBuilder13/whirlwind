@@ -25,12 +25,20 @@ file = "config/VillagerConfig/villagerconfig.json5"
 hash = "67bcf6e07ffab066652050f9a94286e601fa78d7869c279889ae83c0d21fa0ac"
 
 [[files]]
+file = "config/comforts-server.toml"
+hash = "20587104ae3252e0f5b0b60fe092e87ed4612996e0c03e70192bfb5cf95ad4f9"
+
+[[files]]
 file = "config/fallingleaves.json"
 hash = "b48dd55e150147711b63409db15f5599b5e99ef2bde8a2e233a7e22ac9470783"
 
 [[files]]
 file = "config/modmenu.json"
 hash = "9d20a75021d2e8b57909eae5feae12480b583e106e4613e9a39614e45ae9856a"
+
+[[files]]
+file = "config/powershot/breakable_blocks.json"
+hash = "1b8f749881868ec5109e8af0e2960bf693eedc7ea56cc4a9773a007347cb1f35"
 
 [[files]]
 file = "config/presencefootsteps/updater.json"
@@ -64,6 +72,11 @@ hash = "7916e9bf676dd9730f970893ff61fd25f43c563ff6133d1e7886366a3cd9e282"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "0708223179ebe2bad131cfc063dde7cf65ec355c18a3c1392646142e46ea95f3"
+metafile = true
+
+[[files]]
 file = "mods/boat-fall.pw.toml"
 hash = "12a9ef7e12c4c09ee34a15420d39f34743082c776835c4d2667719d4eae33be4"
 metafile = true
@@ -71,6 +84,16 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d1dc8ac9ea0e5aed978c464ff34e460924dfc44d518eece4abbbfb9a5d49abf8"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "e6ad077b2b20ca9bb5a6b371cd5e5c4c77bd8e6613d9a498b23c48bf16ea60c3"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "f066498a64c8a7c13dc28dda561fb4a2923da63df002e1bbbbf8f2652869cbd2"
 metafile = true
 
 [[files]]
@@ -99,6 +122,11 @@ hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "de9b5bac4165fb069bf6df9da2bb6028d50dd51fa0d294f0fb62d1d0c64b707b"
+metafile = true
+
+[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "423581d9738b23798456b7ba021698355ef8f03cef93d8c1266102a227d9a200"
 metafile = true
@@ -106,6 +134,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "b92f07d5a77d6dfff1a693dae256925da90483633835a4c307c95d28a12f372c"
 metafile = true
 
 [[files]]
@@ -154,6 +187,11 @@ hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
 metafile = true
 
 [[files]]
+file = "mods/powershot.pw.toml"
+hash = "50e53c128caecb11771f69e4519f51c296f67308a738e9b278810fa23bca4283"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "d44a47592608a2ef6eb105eb6a4642839e1a9ea59736b92345c0fa492ddbc47a"
 metafile = true
@@ -161,6 +199,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "968dfd85b79d8c3efd84f291dfaef6401fef5c144e37189a7872e294c290c25a"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
 metafile = true
 
 [[files]]
@@ -181,6 +224,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/sooty-chimneys-fabric.pw.toml"
+hash = "881d950c1a67b1de086326011c93ced591d11b08085924dd03fc1ecd74f1f882"
 metafile = true
 
 [[files]]
@@ -206,6 +254,11 @@ metafile = true
 [[files]]
 file = "mods/villagerconfig.pw.toml"
 hash = "464b7fb11e99b2779e1b21706a847fefa0c7ec9c8cd3809965e2710861c24f54"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "80bab11e8d1438ec93695050f087dc2f9d0ae1d2523a17b8236af7029f14119e"
 metafile = true
 
 [[files]]
@@ -236,4 +289,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "14d7190f311125e364f288daabdcb92737164a26c9198a4e8901c718776f6fdd"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true

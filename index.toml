@@ -123,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "de9b5bac4165fb069bf6df9da2bb6028d50dd51fa0d294f0fb62d1d0c64b707b"
+hash = "ff4a66502e802341a84fbb8eceed65156b14436769b1f7e27a68b22fb59c1dae"
 metafile = true
 
 [[files]]
@@ -148,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "af3675c9022d8669af5486c58fa9a685189a579a772a4c2ea5705bbe29bb169d"
+hash = "b50e20549a820d067ba78729ff9612f45ca69356698de1c1e2838ae09ab4c63f"
 metafile = true
 
 [[files]]
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "968dfd85b79d8c3efd84f291dfaef6401fef5c144e37189a7872e294c290c25a"
+hash = "88c9f6366a1f91660d72f2e32c4c19fc1d8c0ac9e4843d9373b7e43a1272a46d"
 metafile = true
 
 [[files]]
